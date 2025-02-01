@@ -6,7 +6,7 @@ Simple CLI wrapper for mosh connections.
 ## Dependencies
 
 - [mosh](https://mosh.org/) - the Mosh remote shell. Needs to be installed on both local system and host.
-- [tmux](https://github.com/tmux/tmux/wiki) (optional; use `--no_tmux` to disable it) - terminal multiplexer. 
+- [tmux](https://github.com/tmux/tmux/wiki) (optional; use `--no_tmux` to disable it) - terminal multiplexer. Needs to be installed on the host.
 
 ## Installation
 
