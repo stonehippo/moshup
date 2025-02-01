@@ -19,3 +19,5 @@ Options:
   --no_tmux        Do not invoke tmux on connection.
   --help           Show this message and exit.
 ```
+
+Note: having hostnames configured in ~/.ssh/config is a nice way to have alias hostnames and usernames.
