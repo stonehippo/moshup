@@ -20,4 +20,4 @@ Options:
   --help           Show this message and exit.
 ```
 
-Note: having hostnames configured in ~/.ssh/config is a nice way to have alias hostnames and usernames.
+Note: having hostnames configured in ~/.ssh/config is a nice way to have aliases for hostnames and usernames.
