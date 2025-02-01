@@ -3,6 +3,12 @@ Simple CLI wrapper for mosh connections.
 
 `moshup` wraps the Mosh command and inject some arguments that makes it more useful for me. This includes setting up a particular session and optionally invoking `tmux`.
 
+## Installation
+
+```
+pip install -e .
+```
+
 ## Usage
 
 ```
