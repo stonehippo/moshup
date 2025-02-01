@@ -5,8 +5,18 @@ Simple CLI wrapper for mosh connections.
 
 ## Installation
 
+From a local clone of this repo:
+
 ```
+git clone https://github.com/stonehippo/moshup
+cd moshup
 pip install .
+```
+
+Directly from Github:
+
+```
+ pip install moshup@git+https://github.com/stonehippo/moshup
 ```
 
 ## Usage
