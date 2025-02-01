@@ -6,7 +6,7 @@ Simple CLI wrapper for mosh connections.
 ## Installation
 
 ```
-pip install -e .
+pip install .
 ```
 
 ## Usage
