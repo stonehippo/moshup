@@ -1,7 +1,7 @@
 # moshup
 Simple CLI wrapper for mosh connections.
 
-`moshup` wraps the Mosh command and inject some arguments that makes it more useful for me. This includes setting up a particular session and optionally invoking `tmux`. If you do use `tmux`, the wrapper with attempt to connect to a specific instance; if it's not currently running, it will be started.
+`moshup` wraps the Mosh command and injects some arguments that makes it more useful for me. This includes setting up a particular session and optionally invoking `tmux`. If you do use `tmux`, the wrapper will attempt to connect to a specific instance; if it's not currently running, it will be started.
 
 ## Dependencies
 
